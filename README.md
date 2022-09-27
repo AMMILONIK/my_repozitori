@@ -1,1 +1,3 @@
-# my_repozitori
+# Задание 1
+[привет гит](%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82_%D0%B3%D0%B8%D1%82.txt)
+![alt text](прув.jpg)
